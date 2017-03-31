@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd40c225-e335-456b-8e43-cebf89c87cb8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="cd40c225-e335-456b-8e43-cebf89c87cb8" name="Default" comment="s">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bb.iws" />
@@ -633,12 +631,19 @@
       <updated>1490703346172</updated>
       <workItem from="1490703707992" duration="1604000" />
       <workItem from="1490755642299" duration="1461000" />
-      <workItem from="1490957117916" duration="498000" />
+      <workItem from="1490957117916" duration="568000" />
     </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1490957638133</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490957638133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3563000" />
+    <option name="totallyTimeSpent" value="3633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="125" y="17" width="1401" height="827" extended-state="0" />
@@ -692,6 +697,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="s" />
+    <option name="LAST_COMMIT_MESSAGE" value="s" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
